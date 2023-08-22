@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "title": "Can Cell Site Radiation cause cancer or tumors?",
+        "content": "The Radio Frequency Radiation from cell sites and mobile phones are classified as NON-IONIZING RADIATION, a radiation that can cause heating sensation, unlike the IONIZING RADIATION, which can alter the molecular structure of our body (e.g. X-rays, Gamma rays). The very low energy being emitted by cell phones and cell sites are too small to affect human body. The usual measurement is 1000 times below the standard level set by Department of Health."
+    },
+    {
+        "id": 2,
+        "title": "What is a Crisis Management Plan",
+        "content": "This defines the structure of the crisis response teams, their organization, their responsibilities, and how they operate and collaborate with other teams to ensure the efficient response of the company to disasters or crises that pose a threat to the safety of its people, process, infrastructure, and reputation. Globe's Crisis Management Plan also includes strategic and symbiotic partnerships with public and private organizations for knowledge exchange and resource sharing.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Are the relative importance of business processes as part of the Business Impact Analysis established?",
+        "content": "Yes, we determine the criticality of operations thru Business Impact Analysis.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Are plans for pandemics in place?",
+        "content": "Yes, BCPs including for pamdemics are classified as high confidential; Additional information can be requested from involved teams.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "COVID-19: Who are prohibited from entering Globe offices?",
+        "content": "Yes, BCPs including for pamdemics are classified as high confidential; Additional information can be requested from involved teams.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Employees or guests who have been to any of the red or orange coded countries.",
+        "content": "Yes, BCPs including for pamdemics are classified as high confidential; Additional information can be requested from involved teams.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "COVID-19: Will my absence due to mandatory self-quarantine be charged against my VL or SL?",
+        "content": "No. The 14-day mandatory self-quarantine (WFH) will be on top of your VL and SL credits.",
+        "relatedLinks": [
+            { "id": 1, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet"},
+            { "id": 2, "title": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet", "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet" }
+        ]
+    }
+]
